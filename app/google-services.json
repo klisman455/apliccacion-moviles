@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "637117359038",
+    "project_id": "trbajofinal12",
+    "storage_bucket": "trbajofinal12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637117359038:android:fa093a5ec6fe3d4723cfef",
+        "android_client_info": {
+          "package_name": "com.example.apliactionbase1moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4Sq-XDb4lqbkOMC_U022cSrKKGb2Pdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637117359038:android:42ea77ffce1cd3ab23cfef",
+        "android_client_info": {
+          "package_name": "com.example.oruevaunodebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4Sq-XDb4lqbkOMC_U022cSrKKGb2Pdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637117359038:android:3091c413dda73ff123cfef",
+        "android_client_info": {
+          "package_name": "com.example.pruebadeingresodebasededatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4Sq-XDb4lqbkOMC_U022cSrKKGb2Pdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637117359038-pdb8iodqjrhchr2s34uq4uhprjc4ip25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
